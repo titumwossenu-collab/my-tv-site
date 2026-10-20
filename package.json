@@ -1,0 +1,9 @@
+{
+  "name": "my-tv-site",
+  "version": "1.0.0",
+  "description": "TizenBrew site module - opens a website on a Samsung TV with remote navigation",
+  "packageType": "mods",
+  "appName": "My Site",
+  "websiteURL": "https://example.com",
+  "main": "userScript.js"
+}
